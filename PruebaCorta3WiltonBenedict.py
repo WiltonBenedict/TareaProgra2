@@ -1,6 +1,6 @@
-#8//2023. Wilton Benedict
+#8/2023. Wilton Benedict
 #UH. Prueba Corta 3. sistema que ordene 2 arreglos que estan vinculados de un tamaño de 5 posiciones 
-
+#Prueba Original 
 
 #BLOQUE INICIAL
 #######################
