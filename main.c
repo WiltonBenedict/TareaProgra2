@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Tarea de programacion I de python convertida en C ya que estaba aprendiendo a usar C por cuenta propia
 
 void Imprimir(int limit,int edad[limit],int cedula[limit]){
   printf("-------Imprimiendo lista-------\n");
